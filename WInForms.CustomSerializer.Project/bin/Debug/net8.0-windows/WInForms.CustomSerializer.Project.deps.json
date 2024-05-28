@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WInForms.CustomSerializer.Project/1.0.0": {
+        "runtime": {
+          "WInForms.CustomSerializer.Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WInForms.CustomSerializer.Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\bin\Debug\net8.0-windows\WInForms.CustomSerializer.Project.exe
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\bin\Debug\net8.0-windows\WInForms.CustomSerializer.Project.deps.json
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\bin\Debug\net8.0-windows\WInForms.CustomSerializer.Project.runtimeconfig.json
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\bin\Debug\net8.0-windows\WInForms.CustomSerializer.Project.dll
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\bin\Debug\net8.0-windows\WInForms.CustomSerializer.Project.pdb
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\obj\Debug\net8.0-windows\WInForms.CustomSerializer.Project.MyControl.resources
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\obj\Debug\net8.0-windows\WInForms.CustomSerializer.Project.csproj.GenerateResource.cache
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\obj\Debug\net8.0-windows\WInForms.CustomSerializer.Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\obj\Debug\net8.0-windows\WInForms.CustomSerializer.Project.AssemblyInfoInputs.cache
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\obj\Debug\net8.0-windows\WInForms.CustomSerializer.Project.AssemblyInfo.cs
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\obj\Debug\net8.0-windows\WInForms.CustomSerializer.Project.csproj.CoreCompileInputs.cache
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\obj\Debug\net8.0-windows\WInForms.CustomSerializer.Project.dll
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\obj\Debug\net8.0-windows\refint\WInForms.CustomSerializer.Project.dll
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\obj\Debug\net8.0-windows\WInForms.CustomSerializer.Project.pdb
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\obj\Debug\net8.0-windows\WInForms.CustomSerializer.Project.genruntimeconfig.cache
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\obj\Debug\net8.0-windows\ref\WInForms.CustomSerializer.Project.dll
+C:\Users\A0096774\source\repos\WInForms\WInForms.CustomSerializer.Project\obj\Debug\net8.0-windows\WInForms.CustomSerializer.Project.MyComponent.resources
